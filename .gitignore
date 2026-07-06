@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Local app runtime
+.models/
+outputs/
+*.log
+*.pid
+
+# Local media/transcription artifacts
+*.m4s
+*.wav
+transcript_output/
+my_transcript/
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
