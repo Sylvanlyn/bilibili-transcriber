@@ -1,5 +1,7 @@
 # Bilibili Transcriber
 
+获取哔哩哔哩视频的文本。
+
 A local Bilibili transcription tool. It downloads a video's audio track, converts
 it with `ffmpeg`, and transcribes it locally with `faster-whisper`.
 
